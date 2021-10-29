@@ -289,26 +289,28 @@
           null
         ]
       },
-      "/Users/jessicajones/turing/mod3/rails-engine/config/routes.rb": {
+      "/Users/jessicajones/turing/mod3/rails-engine/spec/factories/item.rb": {
         "lines": [
           1,
-          null,
           1,
           1,
           1,
           1,
-          null,
-          null,
+          1,
           null,
           null
         ]
       },
-      "/Users/jessicajones/turing/mod3/rails-engine/app/models/merchant.rb": {
+      "/Users/jessicajones/turing/mod3/rails-engine/app/models/item.rb": {
         "lines": [
           1,
           1,
-          1,
           null,
+          null,
+          null,
+          1,
+          1,
+          1,
           1,
           null,
           1,
@@ -321,8 +323,76 @@
           1,
           null
         ]
+      },
+      "/Users/jessicajones/turing/mod3/rails-engine/config/routes.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/jessicajones/turing/mod3/rails-engine/app/models/merchant.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/jessicajones/turing/mod3/rails-engine/spec/requests/api/v1/items/items_requests_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1635382101
+    "timestamp": 1635465423
   }
 }
