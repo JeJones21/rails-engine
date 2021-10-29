@@ -34,6 +34,16 @@ class Api::V1::ItemsController < ApplicationController
     item.destroy
   end
 
+  # def find_all_items
+  #   items = Item.where('name iLIKE ?', "%#{params['name']}%")
+  #
+  #   if params['name'] && params['name'].empty? == false
+  #     render json: ItemSerializer.new(items)
+  #   else
+  #     render json: {data:{}}, :status => :bad_request
+  #   end
+  # end
+ # refactor, not working
   private
 
   def item_params
